@@ -20,12 +20,12 @@
 
 ### Número correcto
 
-Captura de la ejecución del programa introduciendo un número correcto, por ejemplo `17`.
+Captura de la ejecución del programa introduciendo un número correcto.
 
 ![Numero correcto.png](Numero%20correcto.png)
 
 ### Número incorrecto
 
-Captura de la ejecución del programa introduciendo un valor incorrecto, por ejemplo `hola`.
+Captura de la ejecución del programa introduciendo un valor incorrecto.
 
 ![Numero incorrecto.png](Numero%20incorrecto.png)
